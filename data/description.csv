@@ -3,6 +3,6 @@ label,sublabel,description,styles,bgcolor
 不燃ごみ,,,img/shigen02.svg,#77ae1f
 ペット,,,img/moyasu02.svg,#ea3b13
 びん,,,img/bin02.svg,#2dc7aa
-缶
-紙
-布類
+缶,,,img/bin02.svg,#2dc7aa
+紙,,,img/bin02.svg,#2dc7aa
+布類,,,img/bin02.svg,#2dc7aa
