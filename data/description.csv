@@ -1,0 +1,8 @@
+label,sublabel,description,styles,bgcolor
+可燃ごみ,,,img/moyasanai02.svg,#733b96
+不燃ごみ,,,img/shigen02.svg,#77ae1f
+ペット,,,img/moyasu02.svg,#ea3b13
+びん,,,img/bin02.svg,#2dc7aa
+缶,,,img/bin02.svg,#3b9673
+紙,,,img/bin02.svg,#e5e5e5
+布類,,,img/bin02.svg,#eacbc5
